@@ -1,0 +1,21 @@
+{
+    "name": "profburial/wkhtmltopdf-binaries-precise",
+    "description": "All the wkhtmltopdf binaries for Ubuntu 12.04 (precise).",
+    "keywords": ["pdf", "wkhtmltopdf", "binary"],
+    "license": "LGPL Version 3",
+    "homepage": "https://github.com/profburial/wkhtmltopdf-binaries",
+    "authors": [
+        {
+            "name": "Terry Harmon",
+            "email": "terry@polymorphdev.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/wkhtmltoimage-linux-precise-amd64",
+        "bin/wkhtmltoimage-linux-precise-i386",
+        "bin/wkhtmltopdf-linux-precise-amd64",
+        "bin/wkhtmltopdf-linux-precise-i386"
+    ],
+    "require": {}
+}

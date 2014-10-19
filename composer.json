@@ -3,7 +3,7 @@
     "description": "All the wkhtmltopdf binaries for Ubuntu 12.04 (precise).",
     "keywords": ["pdf", "wkhtmltopdf", "binary"],
     "license": "LGPL Version 3",
-    "homepage": "https://github.com/profburial/wkhtmltopdf-binaries",
+    "homepage": "https://github.com/profburial/wkhtmltopdf-binaries-precise",
     "authors": [
         {
             "name": "Terry Harmon",

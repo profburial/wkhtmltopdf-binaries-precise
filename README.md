@@ -1,4 +1,4 @@
-# wkhtmltopdf for Ubuntu 12.04 (precise)
+# wkhtmltopdf for Ubuntu 12.04 (precise) 0.12.1 qtwebkit
 
 [All the binaries for Ubuntu 12.04 (precise) from http://wkhtmltopdf.org/downloads.html](http://wkhtmltopdf.org/downloads.html)
 
@@ -15,7 +15,7 @@
     ```js
     {
         "require": {
-            "profburial/wkhtmltopdf-binaries-precise": "1.0"
+            "profburial/wkhtmltopdf-binaries-precise": "0.12.1"
         }
     }
     ```
